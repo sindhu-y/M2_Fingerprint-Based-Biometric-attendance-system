@@ -9,14 +9,25 @@ humans are more likely to trust machines over people, which is likely evident fr
 # REQUIRED COMPONENTS
 
 Atmega32
+
 Fingerprint module (r305) 
-Push Button or membrane buttons   
+
+Push Button or membrane buttons  
+
 LEDs
+
 Resistors
+
 Power 12v adaptor
+
 Buzzer 
+
 16x2 LCD
+
 RTC Module (ds1307 or ds3231)
+
 LM7805 
+
 capacitor
+
 Transistor 
