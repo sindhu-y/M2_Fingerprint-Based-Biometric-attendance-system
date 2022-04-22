@@ -1,9 +1,4 @@
-/*
- * AttandeceSystem.c
- *
- * Created: 1/8/2019 10:10:44 PM
- *  Author: Evan
- */ 
+
  
 #define F_CPU 8000000ul
 #include <avr/io.h>
