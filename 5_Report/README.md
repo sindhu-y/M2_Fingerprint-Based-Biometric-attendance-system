@@ -4,23 +4,13 @@
 # ABSTRACT
 
 
-In industrial and domestic applications attendance registering is important at each and every moment. Many face a lot of problems due to lack of proper attendance monitoring system. In
-this project we use Fingerprint Sensor (R305) which senses the Fingerprint of a particular person; a buzzer and Led gets activated whenever a person places his finger on the sensor. 
-This  project has a wide application inschool, college, business organization, offices where marking of attendance is required accurately with time. By using the fingerprint sensor,
-the system will become more secure for the users.Biometric student attendance system increases the efficiency of the process of taking student 2 attendance.It will also prevent proxy attendance, thus increasing the
-reliability of attendance records.Proper attendance recording and management has become important in today’s world as attendance and achievement go hand in hand. Attendance is
-one of the work ethics valued by employers. Most of the educational institutions and government organizations in developing countries still use paper based attendance method for
-maintaining the attendance records. There is a need to replace these traditional methods of attendance recording with biometric attendance system. The unique nature of fingerprint
-makes it ideal for use in attendance management systems. Besides being secure, Fingerprint based attendance system will also be environment friendly. Fingerprint matching is widely
-used in forensics for a long time. It can also be used in applications such as identity management and access control. This review incorporates the problems of attendance systems
-presently in use, working of a typical fingerprint based attendance system, study of different systems, their advantages, disadvantages and comparison based upon important parameters
+In industrial and domestic applications attendance registering is important at each and every moment. Many face a lot of problems due to lack of proper attendance monitoring system. In this project we use Fingerprint Sensor (R305) which senses the Fingerprint of a particular person; a buzzer and Led gets activated whenever a person places his finger on the sensor. This  project has a wide application inschool, college, business organization, offices where marking of attendance is required accurately with time. By using the fingerprint sensor,the system will become more secure for the users.Biometric student attendance system increases the efficiency of the process of taking student 2 attendance.It will also prevent proxy attendance, thus increasing the reliability of attendance records.Proper attendance recording and management has become important in today’s world as attendance and achievement go hand in hand. Attendance is one of the work ethics valued by employers. Most of the educational institutions and government organizations in developing countries still use paper based attendance method for maintaining the attendance records. There is a need to replace these traditional methods of attendance recording with biometric attendance system. The unique nature of fingerprint makes it ideal for use in attendance management systems. Besides being secure, Fingerprint based attendance system will also be environment friendly. Fingerprint matching is widely
+used in forensics for a long time. It can also be used in applications such as identity management and access control. This review incorporates the problems of attendance systems presently in use, working of a typical fingerprint based attendance system, study of different systems, their advantages, disadvantages and comparison based upon important parameters.
 
 # INTRODUCTION
 
-In the World of Technology, Biometrics plays an effective role in identifying Human beings.Through this project, we will develop a unique system that can identify students for
-attendance purpose using their fingerprints. In this project, we are going to design aFingerprint Sensor Based Biometric Attendance System using Atmega32.
-Simply we will be interfacing fingerprint sensor with Atmega32 microcontroller, LCD Display & RTC Module to design the desired project. In this project, we used the fingerprint Module and Atmega32 to take and keep
-attendance data and records.By using the fingerprint sensor, the system will become more secure for the users. A system that records the attendance making use of biometric scanners and stores them securelyover cloud in the form of Google Spreadsheet can help resolve issues. 
+In the World of Technology, Biometrics plays an effective role in identifying Human beings.Through this project, we will develop a unique system that can identify students for attendance purpose using their fingerprints. In this project, we are going to design aFingerprint Sensor Based Biometric Attendance System using Atmega32.
+Simply we will be interfacing fingerprint sensor with Atmega32 microcontroller, LCD Display & RTC Module to design the desired project. In this project, we used the fingerprint Module and Atmega32 to take and keep attendance data and records.By using the fingerprint sensor, the system will become more secure for the users. A system that records the attendance making use of biometric scanners and stores them securelyover cloud in the form of Google Spreadsheet can help resolve issues. 
 humans are more likely to trust machines over people, which is likely evident from us revealing our ATM pin to a machine so easily. Today, in the world where AI, Machine learning, Chat bots, Smart Speakers, Robots etc are actively progressing, this synergy between humans and robots is only set to increase. 
 Today, from bridge toll collectors to check-out cashiers everything around us is being replaced by machines to get the work done easier and more efficient. To keep up with the phase, in this project we will build a Bio-metric Attendance system using AVR microcontrollers to replace the manual procedure of taking attendance.
 This system will be more reliable and efficient since it would save time and avoid dodgers.
@@ -59,6 +49,9 @@ capacitor
 
 Transistor 
 
+# Flow chart
+
+
 
 
 # Working
@@ -73,6 +66,16 @@ User also needs a TTL to USB converter to see the attendance data over serial te
 And if the user wants to delete all the data then he/she has to press and hold key 2 and then connect power and wait for some time. 
 Now after some time LCD will show ‘Please wait…’ and then ‘Record Deleted successfully’. These two steps are not shown in demonstration video given in the end.
 
+
+# Advantages
+
+1. User friendly
+2. High speed
+3. Efficient and low cost embedded platform
+
+# Disadvantages
+1. For small databases only
+2. Limited Functionality
 
 
 # Conclusion
