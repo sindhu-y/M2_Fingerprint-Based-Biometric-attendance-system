@@ -50,9 +50,8 @@ capacitor
 Transistor 
 
 # Flow chart
-
-
-
+# Block diagram
+# circuit diagram
 
 # Working
 
